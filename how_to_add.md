@@ -2,10 +2,12 @@
 ====
 <br><br>
 <img src="img/step1.png" width="600">
+
 * README.md 파일을 클릭해 해당 페이지로 들어갑니다.
 <br><br><br><br><br>
 
 <img src="img/step2.png" width="600" />
+
 * 오른쪽 상단의 연필 버튼을 클릭해 수정 화면으로 들어갑니다.
 <br><br><br><br><br>
 
@@ -22,4 +24,5 @@
 <br><br><br><br><br>
 
 <img src="img/step4.png" width="600" />
+
 * `Propse file change` 버튼을 누르면 수정 요청이 전송되고, 승인 이후에 리스트에 추가됩니다.
