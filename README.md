@@ -1,7 +1,7 @@
 <p align="center">
-  <h1>dimigo-people</h1><br>
+  dimigo-people<br>
   한국디지털미디어고등학교 재학/졸업생 Github 주소 목록
-  
+  <hr>  
   <b><a href="how_to_add.md">인원 추가하는 방법</a></b>
 </p>
 
