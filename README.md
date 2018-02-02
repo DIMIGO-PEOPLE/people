@@ -16,8 +16,13 @@ Game
 Security
 ----
 
+Windows
+----
+* __[윤지훈](https://github.com/shimika)__(9기, 재직중) : C#
+
 Android
 ----
+* __[정성민](https://github.com/JSpiner)__(11기, 재직중) : Java
 
 iOS 
 ----
