@@ -9,9 +9,9 @@ Web
 
 Game
 ----
+* __[박민수](https://github.com/Rinirihiriro)__(10th, 재직중) :  C++, C#, Unity, cocos2d-x
 * __[박준철](https://github.com/pjc0247)__(10th, 재직중) :  C++, C#, Unity, cocos2d-x
 * __[전우성](https://github.com/synchrok)__(10th, 재직중) :  C++, C#, Unity, cocos2d-x
-* __[전우성](https://github.com/Rinirihiriro)__(10th, 재직중) :  C++, C#, Unity, cocos2d-x
 
 Security
 ----
