@@ -1,8 +1,7 @@
-<p align="center">
-  <b>DIMIGO-PEOPLE</b><br>
-  한국디지털미디어고등학교 재학/졸업생 Github 주소 목록
-</p>
-<br>
+DIMIGO-PEOPLE
+====
+
+한국디지털미디어고등학교 재학/졸업생 Github 주소 목록 <br>
 * [인원 추가하는법](how_to_add.md)
 
 Web
