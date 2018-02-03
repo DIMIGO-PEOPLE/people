@@ -27,4 +27,6 @@ Android
 iOS 
 ----
 
-
+AI
+----
+* __[신은섭](https://github.com/kairos03)__(11기, 재직중) : Python, C++, Java
