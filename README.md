@@ -6,6 +6,7 @@ DIMIGO-PEOPLE
 
 Web
 ----
+* __[강성일](https://github.com/Luavis)__(10th, 재직중) :  Python, Node.JS, React
 
 Game
 ----
@@ -18,15 +19,15 @@ Security
 
 Windows
 ----
-* __[윤지훈](https://github.com/shimika)__(9기, 재직중) : C#
+* __[윤지훈](https://github.com/shimika)__(9th, 재직중) : C#
 
 Android
 ----
-* __[정성민](https://github.com/JSpiner)__(11기, 재직중) : Java
+* __[정성민](https://github.com/JSpiner)__(11th, 재직중) : Java
 
 iOS 
 ----
 
 AI
 ----
-* __[신은섭](https://github.com/kairos03)__(11기, 재직중) : Python, C++, Java
+* __[신은섭](https://github.com/kairos03)__(11th, 재직중) : Python, C++, Java
