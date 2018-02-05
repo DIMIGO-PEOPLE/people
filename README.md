@@ -31,3 +31,7 @@ iOS
 AI
 ----
 * __[신은섭](https://github.com/kairos03)__(11th, 재직중) : Python, C++, Java
+
+Topographic analysis
+----
+* __[홍성재](https://github.com/gtw04)__(11th, 재학중) : C++
