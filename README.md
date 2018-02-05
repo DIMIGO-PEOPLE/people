@@ -27,6 +27,7 @@ Android
 
 iOS 
 ----
+* __[문현균](https://github.com/hyeongyun0916)__(9th, 재학중) : object-c, swift
 
 AI
 ----
