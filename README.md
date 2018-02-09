@@ -31,7 +31,7 @@ iOS
 
 AI
 ----
-* __[신은섭](https://github.com/kairos03)__(11th, 재직중) : Python, C++, Java
+* __[신은섭](https://github.com/kairos03)__(11th, [KIST-Europe](http://www.kist-europe.de) 재직중) : Python, C++, Java
 
 Topographic analysis
 ----
