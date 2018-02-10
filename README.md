@@ -7,6 +7,7 @@ DIMIGO-PEOPLE
 Web
 ----
 * __[강성일](https://github.com/Luavis)__(10th, 재직중) :  Python, Node.JS, React
+* __[제한재](https://github.com/bighilljae)__(9th, 재직중) :  C++, Javascript
 
 Game
 ----
