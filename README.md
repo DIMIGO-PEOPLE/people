@@ -24,7 +24,7 @@ Windows
 
 Android
 ----
-* __[정성민](https://github.com/JSpiner)__(11th, 재직중) : Java
+* __[정성민](https://github.com/JSpiner)__(11th, [피알앤디컴퍼니](http://www.prnd.co.kr/) 재직중) : Java
 
 iOS 
 ----
