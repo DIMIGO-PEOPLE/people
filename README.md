@@ -8,7 +8,7 @@
 | __[강성일](https://github.com/Luavis)__ | 10th | 재직중 | Python, Node.JS, React |
 | __[제한재](https://github.com/bighilljae)__ | 9th | 재직중 | C++, Javascript |
 | __[박성민](https://github.com/a1p4ca)__ | 16th | 재학중 | Node.js, Python, Scala, Vue.js |
-| __[장익환](https://github.com/IkwhanChang)__ | 2nd | [Urhyme](https://www.urhy.me) 재직중) |  Java, Scala, JS/ES6, RDBMS(MySQL/OracleDB/Postgre), AngularJS/ReactJS on Node.js, Webpack, Spring MVC w/Velocity+Hibernate, Play! with Slick, Scala Akka (portfolio: www.matthewlab.com) |
+| __[장익환](https://github.com/IkwhanChang)__ | 2nd | [Urhyme](https://www.urhy.me) 재직중 |  Java, Scala, JS/ES6, RDBMS(MySQL/OracleDB/Postgre), AngularJS/ReactJS on Node.js, Webpack, Spring MVC w/Velocity+Hibernate, Play! with Slick, Scala Akka (portfolio: www.matthewlab.com) |
 
 ## Game
 | 이름 | 기수 | 재직상태 | 스킬셋 |
