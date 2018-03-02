@@ -43,3 +43,9 @@
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
 | __[홍성재](https://github.com/gtw04)__ | 11th | 재학중 | C++ |
+
+# Research
+| 이름 | 기수 | 소속 | 스킬셋 |
+| :--: | :--: | :--: | :--: |
+| __[허재석](https://github.com/iriszero)__ | 11th | [Hanyang University](http://cs.hanyang.ac.kr) | C/C++, Python |
+
