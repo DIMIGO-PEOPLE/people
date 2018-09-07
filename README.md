@@ -27,7 +27,7 @@
 ## Android
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| __[정성민](https://github.com/JSpiner)__ | 11th | [피알앤디컴퍼니](http://www.prnd.co.kr/) 재직중 | Java |
+| __[정성민](https://github.com/JSpiner)__ | 11th | [리디북스](https://www.ridicorp.com/) 재직중 | Java |
 
 ## iOS
 | 이름 | 기수 | 재직상태 | 스킬셋 |
