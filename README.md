@@ -27,7 +27,7 @@
 ## Android
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| __[정성민](https://github.com/JSpiner)__ | 11th | [카카오모빌리티]([https://www.ridicorp.com/](https://kakaomobility.com/)) 재직중 | Java, Kotlin |
+| __[정성민](https://github.com/JSpiner)__ | 11th | [카카오모빌리티](https://kakaomobility.com/) 재직중 | Java, Kotlin |
 
 ## iOS
 | 이름 | 기수 | 재직상태 | 스킬셋 |
